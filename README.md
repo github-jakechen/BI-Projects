@@ -1,2 +1,2 @@
-# Power-BI
+# Data Visualization
 Business intelligence and insights
