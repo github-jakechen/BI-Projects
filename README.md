@@ -1,2 +1,2 @@
-# Data Visualization
+# Data Storytelling
 Business intelligence and insights
