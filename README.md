@@ -1,2 +1,2 @@
-# Data Storytelling
+# BI Projects
 Business intelligence and insights
